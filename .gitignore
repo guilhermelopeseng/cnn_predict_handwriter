@@ -1,0 +1,6 @@
+*.png
+*.hdf5
+*.zip
+*.h5
+venv/
+database/
